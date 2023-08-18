@@ -13,6 +13,8 @@ Copyright [void loop Robotech & Automation] & [DEVNAS]
 
 ![Alt text](schema_bb.jpg)
 ![Uploading](schema_bb.jpg)
+![Uploading](ARDUINO-UNO-SMD-CH340-1-removebg-preview.png)
 ![Uploading ARDUINO-UNO-SMD-CH340-1-removebg-preview.png…]()
+
 
 
