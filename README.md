@@ -12,3 +12,4 @@ Copyright [void loop Robotech & Automation] & [DEVNAS]
 @2023
 
 ![Uploading schema_bb.jpg…]()
+![Uploading schema_bb.png…]()
