@@ -11,5 +11,7 @@ APK disponible sur playStore: Arduino BlueController
 Copyright [void loop Robotech & Automation] & [DEVNAS]
 @2023
 
-![Uploading schema_bb.jpg…]()
+![Alt text](![Uploading schema_bb.jpg…]())
+![Uploading schema_bb.jpg…]( )
 ![Uploading schema_bb.png…]()
+
