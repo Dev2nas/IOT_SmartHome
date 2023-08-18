@@ -12,10 +12,6 @@ Copyright [void loop Robotech & Automation] & [DEVNAS]
 @2023
 
 ![Alt text](schema_bb.jpg)
-![Uploading](schema_bb.jpg)
-![Uploading](ARDUINO-UNO-SMD-CH340-1-removebg-preview.png)
-![Uploading ARDUINO-UNO-SMD-CH340-1-removebg-preview.png…]()
-<img src="ARDUINO-UNO-SMD-CH340-1-removebg-preview.png" raw=true alt="Subject Pronouns" style="margin-right: 10px;"/>
 
 
 
